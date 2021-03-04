@@ -1,0 +1,10 @@
+create table movies12
+( movieId number,
+movieName varchar2(20),
+Category varchar2(20),
+ language varchar2(20),
+ releaseDate Date,
+casting varchar2(20),
+rating  number(2,1),
+totalBusinessDone number(9,1))
+
